@@ -1,0 +1,24 @@
+body {
+  background-color: #F1FFE7; 
+}
+
+.success, .error{
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background: green;
+}
+.error  {
+  background: red;
+}
+#button{
+  background-color: #8AB22C;
+  }
+
+  h1 {
+    font-family: 'Coda Caption', sans-serif;
+    text-align: center;
+  }
